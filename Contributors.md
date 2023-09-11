@@ -9,6 +9,7 @@ JialingYU
 - [Ferhat Cekim](https://github.com/ferferx)
 - [Ansil M B](https://github.com/ansilmbabl)
 - [happy-harsh](https://github.com/happy-harsh)
+- [Valery Bonneau](https://github.com/ValeryBonneau)
 Mahmoud Mirghani
 - ➡️ [Armatys Konrad](https://github.com/karmatys8) ⬅️
 - [Saurabh Padman](https://github.com/spirus-dev)
@@ -35,6 +36,7 @@ PRAJOT
 - [Allen James Alvaro](https://github.com/AllenJalvaro)
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
 - [Christopherson Carpio](https://github.com/tope0731)
+- [Charith Maddoju](https://github.com/charithmaddoju)
 - [Arber Lisaj](https://github.com/arberlisaj)
 - [Vivek Vr](https://github.com/dcompanykrish)
 - [Alice Zandra Eya](https://github.com/AliceEya)
@@ -112,6 +114,7 @@ PRAJOT
 - [Nicholas Gutierrez](https://github.com/nicholasg2001)
 - [angelamagno](https://github.com/angelamagno)
 - [Ori Rose](https://github.com/oriodev)
+- [Mengde Wang](https://github.com/wangme88)
 - [Robert Vittozzi](http://github.com/rvittozzi)
 - [Lavanya Mishra](https://github.com/chessmadridista)
 - [Erik Vargas](https://github.com/erikAlberto)
@@ -155,6 +158,7 @@ Mac McHam
 - [Akash D Mane](https://github.com/akashmane17)
 - [Dominik](https://github.com/dominikstas)
 - [Patricia Dinh](https://github.com/phdinh)
+- olgaTheCreator
 - -psuuc-jayremy
 - [Kosumo] (https://github.com/masumo)
 - [Frederick] (https://github.com/fredsn0tDead)
